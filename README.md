@@ -4,7 +4,8 @@ Flatiron Movie Theater is open for business! You will be building out an
 application, Flatdango, that allows a user to purchase movie tickets from the
 theater.
 
-## Demo
+## live Demo
+[https://code-3-challenge-3.vercel.app/]
 
 Use this gif as an example of how the app should work.
 
